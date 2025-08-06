@@ -93,5 +93,4 @@ product_bundle_recommender/
 
 
 ## **Author**
-***Priyanshu Pandey***
-🔗 LinkedIn
+[***Priyanshu Pandey***](https://www.linkedin.com/in/priyanshu-pandey-93gn/)
